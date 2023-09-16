@@ -1,6 +1,5 @@
 Berikut adalah portofolio individual yang saya kerjakan saat menjalani Bootcamp di Binar Academy sebagai Quality Assurance
-################################################################################################
-################################################################################################
+
 Kriteria challenge yang harus dipenuhi untuk dapat melewati level Gold adalah :
 1. Test scenario dan test case terdokumentasi dalam Microsoft Excel sesuai dengan format
 2. Bug report terdokumentasi dalam Microsoft Word sesuai dengan format
@@ -8,8 +7,7 @@ Kriteria challenge yang harus dipenuhi untuk dapat melewati level Gold adalah :
 4. API testing report dibuat menggunakan Newman dan disimpan dalam bentuk .html 
 5. JMeter dikonfigurasi dan performance test dilakukan dan disimpan dalam bentuk .jmx 
 6. Performance testing report dibuat menggunakan JMeter dan disimpan dalam bentuk .html
-################################################################################################
-################################################################################################
+
 Dalam hal tersebut, dimaksudkan dengan tujuan untuk mempelajari kemampuan teknis seperti berikut:
 1. Menyusun dokumen test scenario dan test case untuk testing pada website dan aplikasi android
 2. Melakukan tipe-tipe testing pada website dan aplikasi android untuk menemukan bug

@@ -17,4 +17,4 @@ Dalam hal tersebut, dimaksudkan dengan tujuan untuk mempelajari kemampuan teknis
 6. Mempelajari flow website dan aplikasi android
 7. Menyusun bug report sesuai bug/defect yang ditemukan dengan menggunakan severity Critical-Major-Medium-Minor dan Priority High-Middle-Low
 8. Mengkonfigurasi POSTMAN untuk melakukan API Testing berdasarkan dokumentasi API dari BackEnd
-9. Mengkonfigurasi JMeter untuk mlekaukan Performance testing berdasarkan dokumentasi API dari BackEnd
+9. Mengkonfigurasi JMeter untuk mlekaukan Performance testing berdasarkan dokumentasi API dari BackEnd.

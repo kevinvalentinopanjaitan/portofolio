@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon-profile</name>
+   <tag></tag>
+   <elementGuidId>36267b93-46d8-452d-8d55-c1ab85b5fb83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown fs-5 d-none d-lg-block&quot;]/a[@class=&quot;nav-link dropdown-toggle d-flex align-items-center&quot;]/i[@class=&quot;bi bi-person me-4 me-lg-0&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.dropdown-toggle.d-flex.align-items-center > i.bi.bi-person.me-4.me-lg-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d6989a8b-66d7-46ee-ab03-f00235e18801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-person me-4 me-lg-0</value>
+      <webElementGuid>30b8fea8-1a33-4e78-bc60-712242ee54de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown fs-5 d-none d-lg-block&quot;]/a[@class=&quot;nav-link dropdown-toggle d-flex align-items-center&quot;]/i[@class=&quot;bi bi-person me-4 me-lg-0&quot;]</value>
+      <webElementGuid>ebc8bdc7-c583-4ae5-aa37-24a0c4cd88b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/a/i</value>
+      <webElementGuid>8e0cc8d8-657e-4a8d-b5f5-69a414eb49bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/i</value>
+      <webElementGuid>0fc75865-5e70-4325-84de-ea76f01af3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CA8BD0DA383045D37519F9ED46F086BD",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Search_Product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

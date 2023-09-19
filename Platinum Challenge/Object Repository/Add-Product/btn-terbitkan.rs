@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-terbitkan</name>
+   <tag></tag>
+   <elementGuidId>5b947da0-5a75-4af5-b07d-eac70b985ec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.btn.btn-primary.w-50.rounded-4.p-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>06e690f0-12b2-4604-b773-1ad38387340b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary w-50 rounded-4 p-3</value>
+      <webElementGuid>5e23b575-7bee-413f-b6b0-7dcbc3ba3090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>product_status_published</value>
+      <webElementGuid>756aeee1-4768-4488-b05c-4b476ac967a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terbitkan</value>
+      <webElementGuid>784deeea-4c46-49e4-9914-5eaed29d19f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container container-sm position-relative&quot;]/section[@class=&quot;row mt-5&quot;]/div[@class=&quot;col-11&quot;]/form[1]/div[@class=&quot;mb-4 d-flex gap-5&quot;]/label[@class=&quot;btn btn-primary w-50 rounded-4 p-3&quot;]</value>
+      <webElementGuid>313091d3-4cf8-45d8-9e4b-721c3b1ed246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::label[1]</value>
+      <webElementGuid>7dd2fd91-462e-48f2-9c99-7e07b7db7127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::label[2]</value>
+      <webElementGuid>59ac7b6a-d30d-4601-928a-c4b3b293869d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terbitkan']/parent::*</value>
+      <webElementGuid>60e616dc-9dac-4eb9-8927-7303557f143f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>f6722ead-cfc5-4ae4-933b-5814547a49c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Terbitkan' or . = 'Terbitkan')]</value>
+      <webElementGuid>3dd79dcd-3ad0-4073-b817-2ea53fffe050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
